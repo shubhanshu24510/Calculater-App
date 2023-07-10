@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Calculater App</string>
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="symbol_1">(</string>
+    <string name="symblo_2">)</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="log">log</string>
+    <string name="ln">ln</string>
+    <string name="x">x!</string>
+    <string name="x_square">x²</string>
+    <string name="root">√</string>
+    <string name="_1_x">1/x</string>
+    <string name="division">÷</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="multiply">×</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="subtraction">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="additon">+</string>
+    <string name="pi">π</string>
+    <string name="zero">0</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+</resources>
